@@ -9,4 +9,5 @@ I can proudly say I began my love for coding at Flatiron School! I am obsessed w
 - ✨ A few of my favorite things: [A Playlist](https://youtube.com/playlist?list=PLthkYcpMPSRxWOgMc7Ym0B3_02wKIN7Z3) | [Short Stories](https://ife-akinremi.medium.com/)
 
 ## Languages/Frameworks
- 
+![image](https://user-images.githubusercontent.com/61397369/132110081-fa28f990-9359-42ee-811d-10864547e821.png)
+
