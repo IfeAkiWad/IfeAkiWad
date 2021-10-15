@@ -1,4 +1,4 @@
-## Hey! You've Made To My Github :smile: 
+## Hey! You've Made It To My Github :smile: 
 
 
 ### I'm Ifeoluwa
