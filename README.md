@@ -6,7 +6,7 @@ I can proudly say I began my love for coding and frontend development at Flatiro
 - 🤯 I’m most likely learning another language/framework as you're reading this.
 - :musical_keyboard: Ask me about how listening to [Jazz](https://www.youtube.com/watch?v=CfPxlb8-ZQ0&list=PLthkYcpMPSRxRZsVQuWtEb2hsEPZIi9fl&ab_channel=Musictag) improves coding! 
 - :email: Call me, beep me, if you wanna reach me: [Linkedin](https://www.linkedin.com/in/ifeoluwa-akinremi-wade/) | [Email](ifeoluwa.akinremi.wade@gmail.com)
-- ✨ A few of my favorite things: [A Playlist](https://youtube.com/playlist?list=PLthkYcpMPSRxWOgMc7Ym0B3_02wKIN7Z3) | [Short Stories](https://ife-akinremi.medium.com/)
+- ✨ A few of my favorite things: [A Playlist](https://youtube.com/playlist?list=PLthkYcpMPSRxWOgMc7Ym0B3_02wKIN7Z3) 
 
 ## Languages and Frameworks
 ![image](https://camo.githubusercontent.com/4484e4dad48ad3f432f9870d26623dddfd117188d2b59dd97bfe30ca54d92592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727562792d2532334343333432442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d72756279266c6f676f436f6c6f723d7768697465)
